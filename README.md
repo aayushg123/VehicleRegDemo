@@ -1,2 +1,2 @@
 # VehicleRegDemo
-A demo backend project just to make the 
+A demo backend project just to get familiar with JavaEE, Hibernate, SQL
